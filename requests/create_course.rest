@@ -1,0 +1,1175 @@
+POST http://localhost:3001/api/courses
+Content-Type: application/json
+
+[
+  {
+    "Subject": "COMP 1001 A",
+    "Title": "Computing for Arts Students",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1005 A",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Robert Collier",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1005 A1",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1005 A2",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1005 B",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1005 B1",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Wed",
+    "Time": "18:05 - 19:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1005 B2",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Thu",
+    "Time": "18:05 - 19:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1006 B",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Mon Wed",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1006 B1",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Mon",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1006 B2",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Mon",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1006 B3",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Mon",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1405 A",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Robert Collier",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1405 A1",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1405 A2",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1405 B",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1405 B1",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Wed",
+    "Time": "18:05 - 19:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1405 B2",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Thu",
+    "Time": "18:05 - 19:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 B",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David McKenney",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 B1",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 B2",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 C",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David McKenney",
+    "Days": "Mon Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 C1",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 C2",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 D",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David McKenney",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 D1",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Mon",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 D2",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Mon",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 E",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Nadine Marie Moacdieh",
+    "Days": "Mon Wed",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 E1",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Nadine Marie Moacdieh",
+    "Days": "Mon",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1406 E2",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Nadine Marie Moacdieh",
+    "Days": "Mon",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1501 A",
+    "Title": "Intro to Computer Game Design",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Connor Hillen",
+    "Days": "Wed Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1501 A1",
+    "Title": "Intro to Computer Game Design",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1501 A2",
+    "Title": "Intro to Computer Game Design",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Fri",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1501 A3",
+    "Title": "Intro to Computer Game Design",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1501 A4",
+    "Title": "Intro to Computer Game Design",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 A",
+    "Title": "Discrete Structures I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Tue Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 A1",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Tue",
+    "Time": "11:35 - 12:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 A2",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Fri",
+    "Time": "08:35 - 09:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 B",
+    "Title": "Discrete Structures I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 B1",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Tue",
+    "Time": "11:35 - 12:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 B2",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Wed",
+    "Time": "16:35 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 C",
+    "Title": "Discrete Structures I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Wed Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 C1",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Thu",
+    "Time": "13:35 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 1805 C2",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Mon",
+    "Time": "11:35 - 12:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2108 A",
+    "Title": "Applied Crypto and Authentic",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2109 A",
+    "Title": "Intro to Security and Privacy",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2401 A",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Mon Wed",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2401 A1",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2401 A2",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2401 B",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Mark Lanthier",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2401 B1",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Mark Lanthier",
+    "Days": "Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2401 B2",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Mark Lanthier",
+    "Days": "Wed",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2402 A",
+    "Title": "Abstract Data Types & Algorithms",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2402 B",
+    "Title": "Abstract Data Types & Algorithms",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 A",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Darryl Hill",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 A1",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Darryl Hill",
+    "Days": "Mon",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 A2",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Darryl Hill",
+    "Days": "Wed",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 A3",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Darryl Hill",
+    "Days": "Tue",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 B",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Tue Thu",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 B1",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Tue",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 B2",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Mon",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 C",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 C1",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2404 C2",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Wed",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 A",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "LD Nel",
+    "Days": "Tue Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 A1",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 A2",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 A3",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 B",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "LD Nel",
+    "Days": "Mon Wed",
+    "Time": "18:05 - 19:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 B1",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 B2",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2406 B3",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2501 A",
+    "Title": "Compter Game Design & Develop",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Oliver van Kaick",
+    "Days": "Mon Wed",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2501 A1",
+    "Title": "Compter Game Design & Develop",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Oliver van Kaick",
+    "Days": "Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2501 A2",
+    "Title": "Compter Game Design & Develop",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Oliver van Kaick",
+    "Days": "Mon",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2501 A3",
+    "Title": "Compter Game Design & Develop",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Oliver van Kaick",
+    "Days": "Tue",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2501 A4",
+    "Title": "Compter Game Design & Develop",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Oliver van Kaick",
+    "Days": "Mon",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2804 A",
+    "Title": "Discrete Structures II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Darryl Hill",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 2804 B",
+    "Title": "Discrete Structures II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Darryl Hill",
+    "Days": "Wed Fri",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 A",
+    "Title": "Operating Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Lianying Zhao",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 A1",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Lianying Zhao",
+    "Days": "Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 A2",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Lianying Zhao",
+    "Days": "Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 A3",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Lianying Zhao",
+    "Days": "Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 B",
+    "Title": "Operating Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Lianying Zhao",
+    "Days": "Tue Thu",
+    "Time": "19:35 - 20:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 B1",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Lianying Zhao",
+    "Days": "Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 B2",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Lianying Zhao",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3000 B3",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Lianying Zhao",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3002 A",
+    "Title": "Compiler Construction",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Wilf Lalonde",
+    "Days": "Thu",
+    "Time": "18:05 - 20:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3004 A",
+    "Title": "Object-Oriented Software Engin",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Connor Hillen",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3004 B",
+    "Title": "Object-Oriented Software Engin",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Connor Hillen",
+    "Days": "Wed Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3005 A",
+    "Title": "Database Management Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Ahmed El-Roby",
+    "Days": "Mon Wed",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3005 B",
+    "Title": "Database Management Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Ahmed El-Roby",
+    "Days": "Mon Wed",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3007 A",
+    "Title": "Programming Paradigms",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Robert Collier",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3007 B",
+    "Title": "Programming Paradigms",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Robert Collier",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3008 A",
+    "Title": "Human-Computer Interaction",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Nadine Marie Moacdieh",
+    "Days": "Tue Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3009 A",
+    "Title": "Computer Graphics",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Doron Nussbaum",
+    "Days": "Mon Wed",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3009 A1",
+    "Title": "Computer Graphics",
+    "Credits": 0,
+    "Schedule": "Laboratory",
+    "Instructor": "Doron Nussbaum",
+    "Days": "Tue",
+    "Time": "08:35 - 09:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3203 A",
+    "Title": "Principles of Computer Network",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "AbdelRahman Abdou",
+    "Days": "Wed Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3203 A1",
+    "Title": "Principles of Computer Network",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "AbdelRahman Abdou",
+    "Days": "Mon",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3308 A",
+    "Title": "Bioinformatics",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Fri",
+    "Time": "11:35 - 13:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3308 A01",
+    "Title": "Bioinformatics",
+    "Credits": 0,
+    "Schedule": "Other",
+    "Instructor": "TBA",
+    "Days": "Fri",
+    "Time": "14:35 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3804 A",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Michiel Smid",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3804 A1",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Michiel Smid",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3804 B",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Michiel Smid",
+    "Days": "Tue Thu",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 3804 B1",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Michiel Smid",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4003 A",
+    "Title": "Transaction Processing Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Mengchi Liu",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4102 A",
+    "Title": "Computer Vision",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Majid Komeili",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4107 B",
+    "Title": "Neural Networks",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Matthew Holden",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4108 B",
+    "Title": "Computer Systems Security",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David Barrera",
+    "Days": "Wed Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4202 A",
+    "Title": "Computional Aspects of GIS",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jorg Sack",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4308 A",
+    "Title": "Computational Systems Biology",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4308 A01",
+    "Title": "Computational Systems Biology",
+    "Credits": 0,
+    "Schedule": "Workshop",
+    "Instructor": "TBA",
+    "Days": "Mon",
+    "Time": "10:05 - 11:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4501 A",
+    "Title": "Real-Time Games",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Oliver van Kaick",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4602 A",
+    "Title": "Social Networking",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Koon-Ho Alan Tsang",
+    "Days": "Wed Fri",
+    "Time": "11:35 - 13:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4900 B",
+    "Title": "Adv Database Systems",
+    "Credits": 0.5,
+    "Schedule": "Other",
+    "Instructor": "Mengchi Liu",
+    "Days": "Mon",
+    "Time": "11:35 - 14:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4900 C",
+    "Title": "Texture & Pattern Synthesis",
+    "Credits": 0.5,
+    "Schedule": "Laboratory",
+    "Instructor": "David Mould",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4900 D",
+    "Title": "Intro to Natural Lang Process",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Yuhong Guo",
+    "Days": "Wed Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "winter2024"
+  },
+  {
+    "Subject": "COMP 4900 E",
+    "Title": "Real-Time Operating Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "a",
+    "Days": "Mon Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "winter2024"
+  }
+]

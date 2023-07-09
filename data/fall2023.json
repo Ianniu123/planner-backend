@@ -1,0 +1,1192 @@
+[
+  {
+    "Subject": "COMP 1001 A",
+    "Title": "Computing for Arts Students",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1005 A",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Wed Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1005 A1",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Wed",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1005 A2",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "TBA",
+    "Days": "Tue",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1005 B",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Connor Hillen",
+    "Days": "Mon Wed",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1005 B1",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Mon",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1005 B2",
+    "Title": "Introduc to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Thu",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1006 A",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1006 A1",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Wed",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1006 A2",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1006 B",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1006 B1",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Thu",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1006 B2",
+    "Title": "Introdu to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1008 A",
+    "Title": "Math for Game Programmers",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Wilf Lalonde",
+    "Days": "Tue",
+    "Time": "18:05 - 20:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 A",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Robert Collier",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 A1",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 A2",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Thu",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 B",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Robert Collier",
+    "Days": "Mon Wed",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 B1",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Mon",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 B2",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Tue",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 C",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Robert Collier",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 C1",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 C2",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Robert Collier",
+    "Days": "Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 T",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David Mould",
+    "Days": "Wed Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 T1",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David Mould",
+    "Days": "Mon",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 Z",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David McKenney",
+    "Days": "Wed Fri",
+    "Time": "11:35 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1405 Z1",
+    "Title": "Intro to Computer Science I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Fri",
+    "Time": "14:35 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 A",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 A1",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Wed",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 A2",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 B",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jason Hinek",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 B1",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Thu",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 B2",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jason Hinek",
+    "Days": "Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 Z",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David McKenney",
+    "Days": "Wed Fri",
+    "Time": "11:35 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1406 Z1",
+    "Title": "Intro to Computer Science II",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "David McKenney",
+    "Days": "Fri",
+    "Time": "14:35 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 A",
+    "Title": "Discrete Structures I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 A1",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed",
+    "Time": "08:35 - 09:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 A2",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed",
+    "Time": "10:35 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 A3",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed",
+    "Time": "09:35 - 10:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 A4",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed",
+    "Time": "08:35 - 09:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 A5",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed",
+    "Time": "13:35 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 B",
+    "Title": "Discrete Structures I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 B1",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue",
+    "Time": "10:35 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 B2",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue",
+    "Time": "16:35 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 B3",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue",
+    "Time": "13:35 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 B4",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue",
+    "Time": "11:35 - 12:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 B5",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue",
+    "Time": "12:35 - 13:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 C",
+    "Title": "Discrete Structures I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 C1",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Tue",
+    "Time": "13:35 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 1805 C2",
+    "Title": "Discrete Structures I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alexa Sharp",
+    "Days": "Wed",
+    "Time": "08:35 - 09:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2108 A",
+    "Title": "Applied Crypto and Authentic",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David Barrera",
+    "Days": "Mon Wed",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 A",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Tue Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 A1",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 A2",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 B",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Connor Hillen",
+    "Days": "Wed Fri",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 B1",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 B2",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 C",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Mon Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 C1",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Tue",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 C2",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Christine Laurendeau",
+    "Days": "Wed",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 D",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Connor Hillen",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 D1",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Mon",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2401 D2",
+    "Title": "Intro to Systems Programming",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Connor Hillen",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2402 A",
+    "Title": "Abstract Data Types & Algorithms",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2402 B",
+    "Title": "Abstract Data Types & Algorithms",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2404 A",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Darryl Hill",
+    "Days": "Mon Wed",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2404 A1",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Darryl Hill",
+    "Days": "Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2404 A2",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Darryl Hill",
+    "Days": "Wed",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2404 B",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Darryl Hill",
+    "Days": "Mon Wed",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2404 B1",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Darryl Hill",
+    "Days": "Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2404 B2",
+    "Title": "Intro to Software Engineering",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Darryl Hill",
+    "Days": "Mon",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 A",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "LD Nel",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 A1",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 A2",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 A3",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 A4",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "LD Nel",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 B",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Tue Thu",
+    "Time": "18:05 - 19:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 B1",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 B2",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Thu",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2406 B3",
+    "Title": "Fundamentals Web Applications",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Alina Shaikhet",
+    "Days": "Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2801 A",
+    "Title": "Introduction to Robotics",
+    "Credits": 0.5,
+    "Schedule": "Laboratory",
+    "Instructor": "Mark Lanthier",
+    "Days": "Tue Thu",
+    "Time": "09:35 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2804 A",
+    "Title": "Discrete Structures II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Patrick Morin",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 2804 B",
+    "Title": "Discrete Structures II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Darryl Hill",
+    "Days": "Mon Wed",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 A",
+    "Title": "Operating Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "AbdelRahman Abdou",
+    "Days": "Mon Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 A1",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "AbdelRahman Abdou",
+    "Days": "Tue",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 A2",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "AbdelRahman Abdou",
+    "Days": "Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 A3",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "AbdelRahman Abdou",
+    "Days": "Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 B",
+    "Title": "Operating Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Zinovi Rabinovich",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 B1",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Zinovi Rabinovich",
+    "Days": "Tue",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 B2",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Zinovi Rabinovich",
+    "Days": "Wed",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3000 B3",
+    "Title": "Operating Systems",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Zinovi Rabinovich",
+    "Days": "Wed",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3004 A",
+    "Title": "Object-Oriented Software Engin",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Tue Thu",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3004 B",
+    "Title": "Object-Oriented Software Engin",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "TBA",
+    "Days": "Tue Thu",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3005 B",
+    "Title": "Database Management Systems",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Mengchi Liu",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3007 A",
+    "Title": "Programming Paradigms",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Douglas Howe",
+    "Days": "Tue Thu",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3008 A",
+    "Title": "Human-Computer Interaction",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Elizabeth Stobert",
+    "Days": "Wed Fri",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3105 A",
+    "Title": "Intro to Machine Learning",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Junfeng Wen",
+    "Days": "Wed Fri",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3106 A",
+    "Title": "Intro to AI",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Matthew Holden",
+    "Days": "Mon Wed",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3501 A",
+    "Title": "Foundations of Game Program",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David Mould",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3801 A",
+    "Title": "Algorithms Modern Data Sets",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Anil Maheshwari",
+    "Days": "Mon Wed",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3803 A",
+    "Title": "Intro to Theory of Computation",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Michiel Smid",
+    "Days": "Mon Wed",
+    "Time": "16:05 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3804 A",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jorg Sack",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3804 A1",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jorg Sack",
+    "Days": "Thu",
+    "Time": "17:35 - 18:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3804 B",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jorg Sack",
+    "Days": "Wed Fri",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3804 B1",
+    "Title": "Design & Analy of Algorithms I",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Jorg Sack",
+    "Days": "Fri",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3805 A",
+    "Title": "Discrete Struct & Appl (Hon.)",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Daniel Panario",
+    "Days": "Mon Wed",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 3805 A1",
+    "Title": "Discrete Struct & Appl (Hon.)",
+    "Credits": 0,
+    "Schedule": "Tutorial",
+    "Instructor": "Daniel Panario",
+    "Days": "Mon",
+    "Time": "11:35 - 12:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4001 A",
+    "Title": "Distributed Computing",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Evangelos Kranakis",
+    "Days": "Thu",
+    "Time": "14:35 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4004 A",
+    "Title": "Software Quality Assurance",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Jean-Pierre Corriveau",
+    "Days": "Wed Fri",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4114 A",
+    "Title": "Quantum Computing and Info",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Evangelos Kranakis",
+    "Days": "Mon",
+    "Time": "14:35 - 17:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4601 A",
+    "Title": "Mobile Multimedia",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "David McKenney",
+    "Days": "Tue Thu",
+    "Time": "09:35 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4701 A",
+    "Title": "Computing, Society, and Ethics",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Koon-Ho Alan Tsang",
+    "Days": "Tue Thu",
+    "Time": "11:35 - 12:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4804 A",
+    "Title": "Design & Analysis of Algor II",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Prosenjit Bose",
+    "Days": "Tue Thu",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4805 A",
+    "Title": "Theory of Automata",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Steven Wang",
+    "Days": "Tue Thu",
+    "Time": "14:35 - 15:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4900 B",
+    "Title": "Multiagent Systems",
+    "Credits": 0.5,
+    "Schedule": "Other",
+    "Instructor": "Koon-Ho Alan Tsang",
+    "Days": "Tue Thu",
+    "Time": "13:05 - 14:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4900 C",
+    "Title": "Intro to Reinforcement Lrning",
+    "Credits": 0.5,
+    "Schedule": "Other",
+    "Instructor": "Junfeng Wen",
+    "Days": "Mon Wed",
+    "Time": "08:35 - 09:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4900 D",
+    "Title": "Geometry Processing",
+    "Credits": 0.5,
+    "Schedule": "Laboratory",
+    "Instructor": "Oliver van Kaick",
+    "Days": "Mon Wed",
+    "Time": "10:05 - 11:25",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4900 F",
+    "Title": "Knowledge Rep for AI",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Leopoldo Bertossi",
+    "Days": "Mon",
+    "Time": "18:05 - 20:55",
+    "Term": "fall2023"
+  },
+  {
+    "Subject": "COMP 4900 G",
+    "Title": "Algorithms for Data Science",
+    "Credits": 0.5,
+    "Schedule": "Lecture",
+    "Instructor": "Anil Maheshwari",
+    "Days": "Tue",
+    "Time": "08:35 - 11:25",
+    "Term": "fall2023"
+  }
+]

@@ -1,0 +1,120 @@
+Subject,Title,Credits,Schedule,Instructor,Days,Time,Term
+COMP 1001 A,Computing for Arts Students,0.5,Lecture,TBA, Mon Wed , 10:05 - 11:25 ,fall2023
+COMP 1005 A,Introduc to Computer Science I,0.5,Lecture,TBA, Wed Fri , 14:35 - 15:55 ,fall2023
+COMP 1005 A1,Introduc to Computer Science I,0,Tutorial,TBA, Wed , 18:05 - 19:25 ,fall2023
+COMP 1005 A2,Introduc to Computer Science I,0,Tutorial,TBA, Tue , 18:05 - 19:25 ,fall2023
+COMP 1005 B,Introduc to Computer Science I,0.5,Lecture,Connor Hillen, Mon Wed , 11:35 - 12:55 ,fall2023
+COMP 1005 B1,Introduc to Computer Science I,0,Tutorial,Connor Hillen, Mon , 18:05 - 19:25 ,fall2023
+COMP 1005 B2,Introduc to Computer Science I,0,Tutorial,Connor Hillen, Thu , 18:05 - 19:25 ,fall2023
+COMP 1006 A,Introdu to Computer Science II,0.5,Lecture,Jason Hinek, Tue Thu , 11:35 - 12:55 ,fall2023
+COMP 1006 A1,Introdu to Computer Science II,0,Tutorial,Jason Hinek, Wed , 18:05 - 19:25 ,fall2023
+COMP 1006 A2,Introdu to Computer Science II,0,Tutorial,Jason Hinek, Tue , 08:35 - 09:55 ,fall2023
+COMP 1006 B,Introdu to Computer Science II,0.5,Lecture,Jason Hinek, Tue Thu , 08:35 - 09:55 ,fall2023
+COMP 1006 B1,Introdu to Computer Science II,0,Tutorial,Jason Hinek, Thu , 18:05 - 19:25 ,fall2023
+COMP 1006 B2,Introdu to Computer Science II,0,Tutorial,Jason Hinek, Fri , 13:05 - 14:25 ,fall2023
+COMP 1008 A,Math for Game Programmers,0.5,Lecture,Wilf Lalonde, Tue , 18:05 - 20:55 ,fall2023
+COMP 1405 A,Intro to Computer Science I,0.5,Lecture,Robert Collier, Tue Thu , 16:05 - 17:25 ,fall2023
+COMP 1405 A1,Intro to Computer Science I,0,Tutorial,Robert Collier, Wed , 13:05 - 14:25 ,fall2023
+COMP 1405 A2,Intro to Computer Science I,0,Tutorial,Robert Collier, Thu , 13:05 - 14:25 ,fall2023
+COMP 1405 B,Intro to Computer Science I,0.5,Lecture,Robert Collier, Mon Wed , 08:35 - 09:55 ,fall2023
+COMP 1405 B1,Intro to Computer Science I,0,Tutorial,Robert Collier, Mon , 13:05 - 14:25 ,fall2023
+COMP 1405 B2,Intro to Computer Science I,0,Tutorial,Robert Collier, Tue , 16:05 - 17:25 ,fall2023
+COMP 1405 C,Intro to Computer Science I,0.5,Lecture,Robert Collier, Tue Thu , 14:35 - 15:55 ,fall2023
+COMP 1405 C1,Intro to Computer Science I,0,Tutorial,Robert Collier, Fri , 11:35 - 12:55 ,fall2023
+COMP 1405 C2,Intro to Computer Science I,0,Tutorial,Robert Collier, Thu , 16:05 - 17:25 ,fall2023
+COMP 1405 T,Intro to Computer Science I,0.5,Lecture,David Mould, Wed Fri , 14:35 - 15:55 ,fall2023
+COMP 1405 T1,Intro to Computer Science I,0,Tutorial,David Mould, Mon , 11:35 - 12:55 ,fall2023
+COMP 1405 Z,Intro to Computer Science I,0.5,Lecture,David McKenney, Wed Fri , 11:35 - 14:25 ,fall2023
+COMP 1405 Z1,Intro to Computer Science I,0,Tutorial,David McKenney, Fri , 14:35 - 17:25 ,fall2023
+COMP 1406 A,Intro to Computer Science II,0.5,Lecture,Jason Hinek, Tue Thu , 11:35 - 12:55 ,fall2023
+COMP 1406 A1,Intro to Computer Science II,0,Tutorial,Jason Hinek, Wed , 18:05 - 19:25 ,fall2023
+COMP 1406 A2,Intro to Computer Science II,0,Tutorial,Jason Hinek, Tue , 08:35 - 09:55 ,fall2023
+COMP 1406 B,Intro to Computer Science II,0.5,Lecture,Jason Hinek, Tue Thu , 08:35 - 09:55 ,fall2023
+COMP 1406 B1,Intro to Computer Science II,0,Tutorial,Jason Hinek, Thu , 18:05 - 19:25 ,fall2023
+COMP 1406 B2,Intro to Computer Science II,0,Tutorial,Jason Hinek, Fri , 13:05 - 14:25 ,fall2023
+COMP 1406 Z,Intro to Computer Science II,0.5,Lecture,David McKenney, Wed Fri , 11:35 - 14:25 ,fall2023
+COMP 1406 Z1,Intro to Computer Science II,0,Tutorial,David McKenney, Fri , 14:35 - 17:25 ,fall2023
+COMP 1805 A,Discrete Structures I,0.5,Lecture,Alexa Sharp, Tue Thu , 14:35 - 15:55 ,fall2023
+COMP 1805 A1,Discrete Structures I,0,Tutorial,Alexa Sharp, Wed , 08:35 - 09:25 ,fall2023
+COMP 1805 A2,Discrete Structures I,0,Tutorial,Alexa Sharp, Wed , 10:35 - 11:25 ,fall2023
+COMP 1805 A3,Discrete Structures I,0,Tutorial,Alexa Sharp, Wed , 09:35 - 10:25 ,fall2023
+COMP 1805 A4,Discrete Structures I,0,Tutorial,Alexa Sharp, Wed , 08:35 - 09:25 ,fall2023
+COMP 1805 A5,Discrete Structures I,0,Tutorial,Alexa Sharp, Wed , 13:35 - 14:25 ,fall2023
+COMP 1805 B,Discrete Structures I,0.5,Lecture,Alexa Sharp, Wed Fri , 13:05 - 14:25 ,fall2023
+COMP 1805 B1,Discrete Structures I,0,Tutorial,Alexa Sharp, Tue , 10:35 - 11:25 ,fall2023
+COMP 1805 B2,Discrete Structures I,0,Tutorial,Alexa Sharp, Tue , 16:35 - 17:25 ,fall2023
+COMP 1805 B3,Discrete Structures I,0,Tutorial,Alexa Sharp, Tue , 13:35 - 14:25 ,fall2023
+COMP 1805 B4,Discrete Structures I,0,Tutorial,Alexa Sharp, Tue , 11:35 - 12:25 ,fall2023
+COMP 1805 B5,Discrete Structures I,0,Tutorial,Alexa Sharp, Tue , 12:35 - 13:25 ,fall2023
+COMP 1805 C,Discrete Structures I,0.5,Lecture,Alexa Sharp, Tue Thu , 10:05 - 11:25 ,fall2023
+COMP 1805 C1,Discrete Structures I,0,Tutorial,Alexa Sharp, Tue , 13:35 - 14:25 ,fall2023
+COMP 1805 C2,Discrete Structures I,0,Tutorial,Alexa Sharp, Wed , 08:35 - 09:25 ,fall2023
+COMP 2108 A,Applied Crypto and Authentic,0.5,Lecture,David Barrera, Mon Wed , 11:35 - 12:55 ,fall2023
+COMP 2401 A,Intro to Systems Programming,0.5,Lecture,Christine Laurendeau, Tue Thu , 10:05 - 11:25 ,fall2023
+COMP 2401 A1,Intro to Systems Programming,0,Tutorial,Christine Laurendeau, Fri , 10:05 - 11:25 ,fall2023
+COMP 2401 A2,Intro to Systems Programming,0,Tutorial,Christine Laurendeau, Wed , 13:05 - 14:25 ,fall2023
+COMP 2401 B,Intro to Systems Programming,0.5,Lecture,Connor Hillen, Wed Fri , 16:05 - 17:25 ,fall2023
+COMP 2401 B1,Intro to Systems Programming,0,Tutorial,Connor Hillen, Thu , 10:05 - 11:25 ,fall2023
+COMP 2401 B2,Intro to Systems Programming,0,Tutorial,Connor Hillen, Fri , 08:35 - 09:55 ,fall2023
+COMP 2401 C,Intro to Systems Programming,0.5,Lecture,Christine Laurendeau, Mon Wed , 13:05 - 14:25 ,fall2023
+COMP 2401 C1,Intro to Systems Programming,0,Tutorial,Christine Laurendeau, Tue , 14:35 - 15:55 ,fall2023
+COMP 2401 C2,Intro to Systems Programming,0,Tutorial,Christine Laurendeau, Wed , 16:05 - 17:25 ,fall2023
+COMP 2401 D,Intro to Systems Programming,0.5,Lecture,Connor Hillen, Tue Thu , 08:35 - 09:55 ,fall2023
+COMP 2401 D1,Intro to Systems Programming,0,Tutorial,Connor Hillen, Mon , 13:05 - 14:25 ,fall2023
+COMP 2401 D2,Intro to Systems Programming,0,Tutorial,Connor Hillen, Fri , 08:35 - 09:55 ,fall2023
+COMP 2402 A,Abstract Data Types & Algorithms,0.5,Lecture,Alina Shaikhet, Tue Thu , 11:35 - 12:55 ,fall2023
+COMP 2402 B,Abstract Data Types & Algorithms,0.5,Lecture,Alina Shaikhet, Mon Wed , 10:05 - 11:25 ,fall2023
+COMP 2404 A,Intro to Software Engineering,0.5,Lecture,Darryl Hill, Mon Wed , 14:35 - 15:55 ,fall2023
+COMP 2404 A1,Intro to Software Engineering,0,Tutorial,Darryl Hill, Thu , 11:35 - 12:55 ,fall2023
+COMP 2404 A2,Intro to Software Engineering,0,Tutorial,Darryl Hill, Wed , 08:35 - 09:55 ,fall2023
+COMP 2404 B,Intro to Software Engineering,0.5,Lecture,Darryl Hill, Mon Wed , 18:05 - 19:25 ,fall2023
+COMP 2404 B1,Intro to Software Engineering,0,Tutorial,Darryl Hill, Thu , 16:05 - 17:25 ,fall2023
+COMP 2404 B2,Intro to Software Engineering,0,Tutorial,Darryl Hill, Mon , 16:05 - 17:25 ,fall2023
+COMP 2406 A,Fundamentals Web Applications,0.5,Lecture,LD Nel, Tue Thu , 16:05 - 17:25 ,fall2023
+COMP 2406 A1,Fundamentals Web Applications,0,Tutorial,LD Nel, Wed , 13:05 - 14:25 ,fall2023
+COMP 2406 A2,Fundamentals Web Applications,0,Tutorial,LD Nel, Fri , 11:35 - 12:55 ,fall2023
+COMP 2406 A3,Fundamentals Web Applications,0,Tutorial,LD Nel, Fri , 08:35 - 09:55 ,fall2023
+COMP 2406 A4,Fundamentals Web Applications,0,Tutorial,LD Nel, Fri , 10:05 - 11:25 ,fall2023
+COMP 2406 B,Fundamentals Web Applications,0.5,Lecture,Alina Shaikhet, Tue Thu , 18:05 - 19:25 ,fall2023
+COMP 2406 B1,Fundamentals Web Applications,0,Tutorial,Alina Shaikhet, Thu , 14:35 - 15:55 ,fall2023
+COMP 2406 B2,Fundamentals Web Applications,0,Tutorial,Alina Shaikhet, Thu , 13:05 - 14:25 ,fall2023
+COMP 2406 B3,Fundamentals Web Applications,0,Tutorial,Alina Shaikhet, Fri , 08:35 - 09:55 ,fall2023
+COMP 2801 A,Introduction to Robotics,0.5,Laboratory,Mark Lanthier, Tue Thu , 09:35 - 11:25 ,fall2023
+COMP 2804 A,Discrete Structures II,0.5,Lecture,Patrick Morin, Tue Thu , 14:35 - 15:55 ,fall2023
+COMP 2804 B,Discrete Structures II,0.5,Lecture,Darryl Hill, Mon Wed , 08:35 - 09:55 ,fall2023
+COMP 3000 A,Operating Systems,0.5,Lecture,AbdelRahman Abdou, Mon Wed , 13:05 - 14:25 ,fall2023
+COMP 3000 A1,Operating Systems,0,Tutorial,AbdelRahman Abdou, Tue , 08:35 - 09:55 ,fall2023
+COMP 3000 A2,Operating Systems,0,Tutorial,AbdelRahman Abdou, Fri , 11:35 - 12:55 ,fall2023
+COMP 3000 A3,Operating Systems,0,Tutorial,AbdelRahman Abdou, Thu , 08:35 - 09:55 ,fall2023
+COMP 3000 B,Operating Systems,0.5,Lecture,Zinovi Rabinovich, Tue Thu , 08:35 - 09:55 ,fall2023
+COMP 3000 B1,Operating Systems,0,Tutorial,Zinovi Rabinovich, Tue , 10:05 - 11:25 ,fall2023
+COMP 3000 B2,Operating Systems,0,Tutorial,Zinovi Rabinovich, Wed , 16:05 - 17:25 ,fall2023
+COMP 3000 B3,Operating Systems,0,Tutorial,Zinovi Rabinovich, Wed , 14:35 - 15:55 ,fall2023
+COMP 3004 A,Object-Oriented Software Engin,0.5,Lecture,TBA, Tue Thu , 16:05 - 17:25 ,fall2023
+COMP 3004 B,Object-Oriented Software Engin,0.5,Lecture,TBA, Tue Thu , 13:05 - 14:25 ,fall2023
+COMP 3005 B,Database Management Systems,0.5,Lecture,Mengchi Liu, Mon Wed , 10:05 - 11:25 ,fall2023
+COMP 3007 A,Programming Paradigms,0.5,Lecture,Douglas Howe, Tue Thu , 10:05 - 11:25 ,fall2023
+COMP 3008 A,Human-Computer Interaction,0.5,Lecture,Elizabeth Stobert, Wed Fri , 08:35 - 09:55 ,fall2023
+COMP 3105 A,Intro to Machine Learning,0.5,Lecture,Junfeng Wen, Wed Fri , 14:35 - 15:55 ,fall2023
+COMP 3106 A,Intro to AI,0.5,Lecture,Matthew Holden, Mon Wed , 08:35 - 09:55 ,fall2023
+COMP 3501 A,Foundations of Game Program,0.5,Lecture,David Mould, Mon Wed , 10:05 - 11:25 ,fall2023
+COMP 3801 A,Algorithms Modern Data Sets,0.5,Lecture,Anil Maheshwari, Mon Wed , 14:35 - 15:55 ,fall2023
+COMP 3803 A,Intro to Theory of Computation,0.5,Lecture,Michiel Smid, Mon Wed , 16:05 - 17:25 ,fall2023
+COMP 3804 A,Design & Analy of Algorithms I,0.5,Lecture,Jorg Sack, Tue Thu , 11:35 - 12:55 ,fall2023
+COMP 3804 A1,Design & Analy of Algorithms I,0,Tutorial,Jorg Sack, Thu , 17:35 - 18:55 ,fall2023
+COMP 3804 B,Design & Analy of Algorithms I,0.5,Lecture,Jorg Sack, Wed Fri , 11:35 - 12:55 ,fall2023
+COMP 3804 B1,Design & Analy of Algorithms I,0,Tutorial,Jorg Sack, Fri , 10:05 - 11:25 ,fall2023
+COMP 3805 A,Discrete Struct & Appl (Hon.),0.5,Lecture,Daniel Panario, Mon Wed , 13:05 - 14:25 ,fall2023
+COMP 3805 A1,Discrete Struct & Appl (Hon.),0,Tutorial,Daniel Panario, Mon , 11:35 - 12:25 ,fall2023
+COMP 4001 A,Distributed Computing,0.5,Lecture,Evangelos Kranakis, Thu , 14:35 - 17:25 ,fall2023
+COMP 4004 A,Software Quality Assurance,0.5,Lecture,Jean-Pierre Corriveau, Wed Fri , 13:05 - 14:25 ,fall2023
+COMP 4114 A,Quantum Computing and Info,0.5,Lecture,Evangelos Kranakis, Mon , 14:35 - 17:25 ,fall2023
+COMP 4601 A,Mobile Multimedia,0.5,Lecture,David McKenney, Tue Thu , 09:35 - 11:25 ,fall2023
+COMP 4701 A,"Computing, Society, and Ethics",0.5,Lecture,Koon-Ho Alan Tsang, Tue Thu , 11:35 - 12:55 ,fall2023
+COMP 4804 A,Design & Analysis of Algor II,0.5,Lecture,Prosenjit Bose, Tue Thu , 08:35 - 09:55 ,fall2023
+COMP 4805 A,Theory of Automata,0.5,Lecture,Steven Wang, Tue Thu , 14:35 - 15:55 ,fall2023
+COMP 4900 B,Multiagent Systems,0.5,Other,Koon-Ho Alan Tsang, Tue Thu , 13:05 - 14:25 ,fall2023
+COMP 4900 C,Intro to Reinforcement Lrning,0.5,Other,Junfeng Wen, Mon Wed , 08:35 - 09:55 ,fall2023
+COMP 4900 D,Geometry Processing,0.5,Laboratory,Oliver van Kaick, Mon Wed , 10:05 - 11:25 ,fall2023
+COMP 4900 F,Knowledge Rep for AI,0.5,Lecture,Leopoldo Bertossi, Mon , 18:05 - 20:55 ,fall2023
+COMP 4900 G,Algorithms for Data Science,0.5,Lecture,Anil Maheshwari, Tue , 08:35 - 11:25 ,fall2023

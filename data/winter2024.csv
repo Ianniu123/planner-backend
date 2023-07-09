@@ -1,0 +1,118 @@
+Subject,Title,Credits,Schedule,Instructor,Days,Time,Term
+COMP 1001 A,Computing for Arts Students,0.5,Lecture,TBA, Mon Wed , 10:05 - 11:25 ,winter2024
+COMP 1005 A,Introduc to Computer Science I,0.5,Lecture,Robert Collier, Mon Wed , 10:05 - 11:25 ,winter2024
+COMP 1005 A1,Introduc to Computer Science I,0,Tutorial,Robert Collier, Fri , 14:35 - 15:55 ,winter2024
+COMP 1005 A2,Introduc to Computer Science I,0,Tutorial,Robert Collier, Fri , 10:05 - 11:25 ,winter2024
+COMP 1005 B,Introduc to Computer Science I,0.5,Lecture,TBA, Tue Thu , 08:35 - 09:55 ,winter2024
+COMP 1005 B1,Introduc to Computer Science I,0,Tutorial,TBA, Wed , 18:05 - 19:25 ,winter2024
+COMP 1005 B2,Introduc to Computer Science I,0,Tutorial,TBA, Thu , 18:05 - 19:25 ,winter2024
+COMP 1006 B,Introdu to Computer Science II,0.5,Lecture,TBA, Mon Wed , 16:05 - 17:25 ,winter2024
+COMP 1006 B1,Introdu to Computer Science II,0,Tutorial,TBA, Mon , 08:35 - 09:55 ,winter2024
+COMP 1006 B2,Introdu to Computer Science II,0,Tutorial,TBA, Mon , 14:35 - 15:55 ,winter2024
+COMP 1006 B3,Introdu to Computer Science II,0,Tutorial,TBA, Mon , 10:05 - 11:25 ,winter2024
+COMP 1405 A,Intro to Computer Science I,0.5,Lecture,Robert Collier, Mon Wed , 10:05 - 11:25 ,winter2024
+COMP 1405 A1,Intro to Computer Science I,0,Tutorial,Robert Collier, Fri , 14:35 - 15:55 ,winter2024
+COMP 1405 A2,Intro to Computer Science I,0,Tutorial,Robert Collier, Fri , 10:05 - 11:25 ,winter2024
+COMP 1405 B,Intro to Computer Science I,0.5,Lecture,TBA, Tue Thu , 08:35 - 09:55 ,winter2024
+COMP 1405 B1,Intro to Computer Science I,0,Tutorial,TBA, Wed , 18:05 - 19:25 ,winter2024
+COMP 1405 B2,Intro to Computer Science I,0,Tutorial,TBA, Thu , 18:05 - 19:25 ,winter2024
+COMP 1406 B,Intro to Computer Science II,0.5,Lecture,David McKenney, Tue Thu , 14:35 - 15:55 ,winter2024
+COMP 1406 B1,Intro to Computer Science II,0,Tutorial,David McKenney, Fri , 08:35 - 09:55 ,winter2024
+COMP 1406 B2,Intro to Computer Science II,0,Tutorial,David McKenney, Fri , 10:05 - 11:25 ,winter2024
+COMP 1406 C,Intro to Computer Science II,0.5,Lecture,David McKenney, Mon Wed , 13:05 - 14:25 ,winter2024
+COMP 1406 C1,Intro to Computer Science II,0,Tutorial,David McKenney, Fri , 13:05 - 14:25 ,winter2024
+COMP 1406 C2,Intro to Computer Science II,0,Tutorial,David McKenney, Fri , 11:35 - 12:55 ,winter2024
+COMP 1406 D,Intro to Computer Science II,0.5,Lecture,David McKenney, Tue Thu , 08:35 - 09:55 ,winter2024
+COMP 1406 D1,Intro to Computer Science II,0,Tutorial,David McKenney, Mon , 13:05 - 14:25 ,winter2024
+COMP 1406 D2,Intro to Computer Science II,0,Tutorial,David McKenney, Mon , 14:35 - 15:55 ,winter2024
+COMP 1406 E,Intro to Computer Science II,0.5,Lecture,Nadine Marie Moacdieh, Mon Wed , 08:35 - 09:55 ,winter2024
+COMP 1406 E1,Intro to Computer Science II,0,Tutorial,Nadine Marie Moacdieh, Mon , 13:05 - 14:25 ,winter2024
+COMP 1406 E2,Intro to Computer Science II,0,Tutorial,Nadine Marie Moacdieh, Mon , 14:35 - 15:55 ,winter2024
+COMP 1501 A,Intro to Computer Game Design,0.5,Lecture,Connor Hillen, Wed Fri , 11:35 - 12:55 ,winter2024
+COMP 1501 A1,Intro to Computer Game Design,0,Tutorial,Connor Hillen, Fri , 14:35 - 15:55 ,winter2024
+COMP 1501 A2,Intro to Computer Game Design,0,Tutorial,Connor Hillen, Fri , 16:05 - 17:25 ,winter2024
+COMP 1501 A3,Intro to Computer Game Design,0,Tutorial,Connor Hillen, Thu , 14:35 - 15:55 ,winter2024
+COMP 1501 A4,Intro to Computer Game Design,0,Tutorial,Connor Hillen, Fri , 08:35 - 09:55 ,winter2024
+COMP 1805 A,Discrete Structures I,0.5,Lecture,Alina Shaikhet, Tue Thu , 10:05 - 11:25 ,winter2024
+COMP 1805 A1,Discrete Structures I,0,Tutorial,Alina Shaikhet, Tue , 11:35 - 12:25 ,winter2024
+COMP 1805 A2,Discrete Structures I,0,Tutorial,Alina Shaikhet, Fri , 08:35 - 09:25 ,winter2024
+COMP 1805 B,Discrete Structures I,0.5,Lecture,Alina Shaikhet, Tue Thu , 16:05 - 17:25 ,winter2024
+COMP 1805 B1,Discrete Structures I,0,Tutorial,Alina Shaikhet, Tue , 11:35 - 12:25 ,winter2024
+COMP 1805 B2,Discrete Structures I,0,Tutorial,Alina Shaikhet, Wed , 16:35 - 17:25 ,winter2024
+COMP 1805 C,Discrete Structures I,0.5,Lecture,Alina Shaikhet, Wed Fri , 13:05 - 14:25 ,winter2024
+COMP 1805 C1,Discrete Structures I,0,Tutorial,Alina Shaikhet, Thu , 13:35 - 14:25 ,winter2024
+COMP 1805 C2,Discrete Structures I,0,Tutorial,Alina Shaikhet, Mon , 11:35 - 12:25 ,winter2024
+COMP 2108 A,Applied Crypto and Authentic,0.5,Lecture,Jason Hinek, Tue Thu , 16:05 - 17:25 ,winter2024
+COMP 2109 A,Intro to Security and Privacy,0.5,Lecture,Jason Hinek, Tue Thu , 11:35 - 12:55 ,winter2024
+COMP 2401 A,Intro to Systems Programming,0.5,Lecture,TBA, Mon Wed , 14:35 - 15:55 ,winter2024
+COMP 2401 A1,Intro to Systems Programming,0,Tutorial,TBA, Fri , 10:05 - 11:25 ,winter2024
+COMP 2401 A2,Intro to Systems Programming,0,Tutorial,TBA, Thu , 11:35 - 12:55 ,winter2024
+COMP 2401 B,Intro to Systems Programming,0.5,Lecture,Mark Lanthier, Tue Thu , 16:05 - 17:25 ,winter2024
+COMP 2401 B1,Intro to Systems Programming,0,Tutorial,Mark Lanthier, Fri , 13:05 - 14:25 ,winter2024
+COMP 2401 B2,Intro to Systems Programming,0,Tutorial,Mark Lanthier, Wed , 14:35 - 15:55 ,winter2024
+COMP 2402 A,Abstract Data Types & Algorithms,0.5,Lecture,Alexa Sharp, Wed Fri , 13:05 - 14:25 ,winter2024
+COMP 2402 B,Abstract Data Types & Algorithms,0.5,Lecture,Alexa Sharp, Tue Thu , 14:35 - 15:55 ,winter2024
+COMP 2404 A,Intro to Software Engineering,0.5,Lecture,Darryl Hill, Tue Thu , 16:05 - 17:25 ,winter2024
+COMP 2404 A1,Intro to Software Engineering,0,Tutorial,Darryl Hill, Mon , 16:05 - 17:25 ,winter2024
+COMP 2404 A2,Intro to Software Engineering,0,Tutorial,Darryl Hill, Wed , 16:05 - 17:25 ,winter2024
+COMP 2404 A3,Intro to Software Engineering,0,Tutorial,Darryl Hill, Tue , 08:35 - 09:55 ,winter2024
+COMP 2404 B,Intro to Software Engineering,0.5,Lecture,Christine Laurendeau, Tue Thu , 13:05 - 14:25 ,winter2024
+COMP 2404 B1,Intro to Software Engineering,0,Tutorial,Christine Laurendeau, Tue , 14:35 - 15:55 ,winter2024
+COMP 2404 B2,Intro to Software Engineering,0,Tutorial,Christine Laurendeau, Mon , 10:05 - 11:25 ,winter2024
+COMP 2404 C,Intro to Software Engineering,0.5,Lecture,Christine Laurendeau, Mon Wed , 10:05 - 11:25 ,winter2024
+COMP 2404 C1,Intro to Software Engineering,0,Tutorial,Christine Laurendeau, Thu , 16:05 - 17:25 ,winter2024
+COMP 2404 C2,Intro to Software Engineering,0,Tutorial,Christine Laurendeau, Wed , 14:35 - 15:55 ,winter2024
+COMP 2406 A,Fundamentals Web Applications,0.5,Lecture,LD Nel, Tue Thu , 10:05 - 11:25 ,winter2024
+COMP 2406 A1,Fundamentals Web Applications,0,Tutorial,LD Nel, Thu , 14:35 - 15:55 ,winter2024
+COMP 2406 A2,Fundamentals Web Applications,0,Tutorial,LD Nel, Fri , 11:35 - 12:55 ,winter2024
+COMP 2406 A3,Fundamentals Web Applications,0,Tutorial,LD Nel, Fri , 10:05 - 11:25 ,winter2024
+COMP 2406 B,Fundamentals Web Applications,0.5,Lecture,LD Nel, Mon Wed , 18:05 - 19:25 ,winter2024
+COMP 2406 B1,Fundamentals Web Applications,0,Tutorial,LD Nel, Thu , 08:35 - 09:55 ,winter2024
+COMP 2406 B2,Fundamentals Web Applications,0,Tutorial,LD Nel, Fri , 14:35 - 15:55 ,winter2024
+COMP 2406 B3,Fundamentals Web Applications,0,Tutorial,LD Nel, Fri , 08:35 - 09:55 ,winter2024
+COMP 2501 A,Compter Game Design & Develop,0.5,Lecture,Oliver van Kaick, Mon Wed , 14:35 - 15:55 ,winter2024
+COMP 2501 A1,Compter Game Design & Develop,0,Tutorial,Oliver van Kaick, Thu , 10:05 - 11:25 ,winter2024
+COMP 2501 A2,Compter Game Design & Develop,0,Tutorial,Oliver van Kaick, Mon , 11:35 - 12:55 ,winter2024
+COMP 2501 A3,Compter Game Design & Develop,0,Tutorial,Oliver van Kaick, Tue , 10:05 - 11:25 ,winter2024
+COMP 2501 A4,Compter Game Design & Develop,0,Tutorial,Oliver van Kaick, Mon , 10:05 - 11:25 ,winter2024
+COMP 2804 A,Discrete Structures II,0.5,Lecture,Darryl Hill, Tue Thu , 08:35 - 09:55 ,winter2024
+COMP 2804 B,Discrete Structures II,0.5,Lecture,Darryl Hill, Wed Fri , 16:05 - 17:25 ,winter2024
+COMP 3000 A,Operating Systems,0.5,Lecture,Lianying Zhao, Mon Wed , 10:05 - 11:25 ,winter2024
+COMP 3000 A1,Operating Systems,0,Tutorial,Lianying Zhao, Thu , 11:35 - 12:55 ,winter2024
+COMP 3000 A2,Operating Systems,0,Tutorial,Lianying Zhao, Thu , 16:05 - 17:25 ,winter2024
+COMP 3000 A3,Operating Systems,0,Tutorial,Lianying Zhao, Thu , 10:05 - 11:25 ,winter2024
+COMP 3000 B,Operating Systems,0.5,Lecture,Lianying Zhao, Tue Thu , 19:35 - 20:55 ,winter2024
+COMP 3000 B1,Operating Systems,0,Tutorial,Lianying Zhao, Fri , 11:35 - 12:55 ,winter2024
+COMP 3000 B2,Operating Systems,0,Tutorial,Lianying Zhao, Fri , 08:35 - 09:55 ,winter2024
+COMP 3000 B3,Operating Systems,0,Tutorial,Lianying Zhao, Fri , 10:05 - 11:25 ,winter2024
+COMP 3002 A,Compiler Construction,0.5,Lecture,Wilf Lalonde, Thu , 18:05 - 20:55 ,winter2024
+COMP 3004 A,Object-Oriented Software Engin,0.5,Lecture,Connor Hillen, Tue Thu , 14:35 - 15:55 ,winter2024
+COMP 3004 B,Object-Oriented Software Engin,0.5,Lecture,Connor Hillen, Wed Fri , 14:35 - 15:55 ,winter2024
+COMP 3005 A,Database Management Systems,0.5,Lecture,Ahmed El-Roby, Mon Wed , 11:35 - 12:55 ,winter2024
+COMP 3005 B,Database Management Systems,0.5,Lecture,Ahmed El-Roby, Mon Wed , 16:05 - 17:25 ,winter2024
+COMP 3007 A,Programming Paradigms,0.5,Lecture,Robert Collier, Tue Thu , 08:35 - 09:55 ,winter2024
+COMP 3007 B,Programming Paradigms,0.5,Lecture,Robert Collier, Tue Thu , 11:35 - 12:55 ,winter2024
+COMP 3008 A,Human-Computer Interaction,0.5,Lecture,Nadine Marie Moacdieh, Tue Thu , 10:05 - 11:25 ,winter2024
+COMP 3009 A,Computer Graphics,0.5,Lecture,Doron Nussbaum, Mon Wed , 16:05 - 17:25 ,winter2024
+COMP 3009 A1,Computer Graphics,0,Laboratory,Doron Nussbaum, Tue , 08:35 - 09:25 ,winter2024
+COMP 3203 A,Principles of Computer Network,0.5,Lecture,AbdelRahman Abdou, Wed Fri , 08:35 - 09:55 ,winter2024
+COMP 3203 A1,Principles of Computer Network,0,Tutorial,AbdelRahman Abdou, Mon , 13:05 - 14:25 ,winter2024
+COMP 3308 A,Bioinformatics,0.5,Lecture,TBA, Fri , 11:35 - 13:25 ,winter2024
+COMP 3308 A01,Bioinformatics,0,Other,TBA, Fri , 14:35 - 17:25 ,winter2024
+COMP 3804 A,Design & Analy of Algorithms I,0.5,Lecture,Michiel Smid, Tue Thu , 08:35 - 09:55 ,winter2024
+COMP 3804 A1,Design & Analy of Algorithms I,0,Tutorial,Michiel Smid, Fri , 10:05 - 11:25 ,winter2024
+COMP 3804 B,Design & Analy of Algorithms I,0.5,Lecture,Michiel Smid, Tue Thu , 13:05 - 14:25 ,winter2024
+COMP 3804 B1,Design & Analy of Algorithms I,0,Tutorial,Michiel Smid, Fri , 10:05 - 11:25 ,winter2024
+COMP 4003 A,Transaction Processing Systems,0.5,Lecture,Mengchi Liu, Tue Thu , 14:35 - 15:55 ,winter2024
+COMP 4102 A,Computer Vision,0.5,Lecture,Majid Komeili, Mon Wed , 10:05 - 11:25 ,winter2024
+COMP 4107 B,Neural Networks,0.5,Lecture,Matthew Holden, Tue Thu , 11:35 - 12:55 ,winter2024
+COMP 4108 B,Computer Systems Security,0.5,Lecture,David Barrera, Wed Fri , 11:35 - 12:55 ,winter2024
+COMP 4202 A,Computional Aspects of GIS,0.5,Lecture,Jorg Sack, Tue Thu , 16:05 - 17:25 ,winter2024
+COMP 4308 A,Computational Systems Biology,0.5,Lecture,TBA, Wed , 10:05 - 11:25 ,winter2024
+COMP 4308 A01,Computational Systems Biology,0,Workshop,TBA, Mon , 10:05 - 11:25 ,winter2024
+COMP 4501 A,Real-Time Games,0.5,Lecture,Oliver van Kaick, Tue Thu , 11:35 - 12:55 ,winter2024
+COMP 4602 A,Social Networking,0.5,Lecture,Koon-Ho Alan Tsang, Wed Fri , 11:35 - 13:25 ,winter2024
+COMP 4900 B,Adv Database Systems,0.5,Other,Mengchi Liu, Mon , 11:35 - 14:25 ,winter2024
+COMP 4900 C,Texture & Pattern Synthesis,0.5,Laboratory,David Mould, Tue Thu , 16:05 - 17:25 ,winter2024
+COMP 4900 D,Intro to Natural Lang Process,0.5,Lecture,Yuhong Guo, Wed Fri , 08:35 - 09:55 ,winter2024
+COMP 4900 E,Real-Time Operating Systems,0.5,Lecture,a, Mon Wed , 13:05 - 14:25 ,winter2024
