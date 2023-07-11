@@ -15,13 +15,13 @@ app.get('/api/courses', (request, response) => {
     })
 })
 
-app.get('/api/fall2023', (request, response) => {
+app.get('/api/courses/fall2023', (request, response) => {
     Courses.find({ term: "fall2023" }).then(courses => {
         response.json(courses)
     })
 })
 
-app.get('/api/winter2024', (request, response) => {
+app.get('/api/courses/winter2024', (request, response) => {
     Courses.find({ term: 'winter2024'}).then(courses => {
         response.json(courses)
     })
