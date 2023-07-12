@@ -2,7 +2,7 @@ This is a tool that can help students of Carleton University plan their courses 
 
 Link to Front-End: <a href="https://github.com/Ianniu123/planner-frontend" target="_blank">Introduction</a>
 
-- To Do: 
+To Do: 
 - being able to switch between terms
 - add courses by dragging
 - better ui for displaying courses
