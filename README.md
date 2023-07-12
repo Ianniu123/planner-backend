@@ -1,6 +1,7 @@
 This is a tool that can help students of Carleton University plan their courses in a more efficient way
 
 Link to Front-End: <a href="https://github.com/Ianniu123/planner-frontend" target="_blank">Introduction</a>
+<br>
 Link to Website: <a href="https://course-planner-backend.onrender.com/" target="_blank">Introduction</a>
 
 To Do: 
