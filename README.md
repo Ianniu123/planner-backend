@@ -12,4 +12,4 @@ To Do:
 - being able to save the selected courses (unique by ip)
 
 Details that can be improved:
--When you remove 
+- When you remove courses, add the course back to the filter (display)
