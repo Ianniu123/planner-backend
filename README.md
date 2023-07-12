@@ -2,7 +2,7 @@ This is a tool that can help students of Carleton University plan their courses 
 <br>
 <a href="https://github.com/Ianniu123/planner-frontend" target="_blank">Link to Front-End</a>
 <br>
-<a href="https://github.com/Ianniu123/planner-frontend" target="_blank">Link to website</a>
+<a href="https://course-planner-backend.onrender.com/" target="_blank">Link to website</a>
 
 To Do: 
 - being able to switch between terms
